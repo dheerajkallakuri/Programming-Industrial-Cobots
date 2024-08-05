@@ -57,6 +57,6 @@ For a visual demonstration of this project, please refer to the video linked bel
 
 ## Additional Resources
 - [Universal Robots Support](https://www.universal-robots.com/support/)
-- [my UR]([https://www.universal-robots.com/articles/ur/urscript-programming-language/](https://myur.universal-robots.com/))
+- [my UR](https://myur.universal-robots.com/)
 
 For further assistance, contact Universal Robots support or refer to the official documentation provided with your cobot.
